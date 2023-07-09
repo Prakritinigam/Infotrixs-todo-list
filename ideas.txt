@@ -1,0 +1,30 @@
+Technical Support___
+Register Login
+Management dashboard
+client dashboard
+review, ratings, feedback
+Free/Paid Webinars, Chatbots, Custom Order Sections
+Helpdesk (live support with limited access)
+Trendings
+Frequently Asked Questions
+Etc
+
+ Disabled Children Support 
+Same fields
+
+Hindi Typing Learning Website
+
+- user/teacher profile creation
+- user/ teacher login 
+- Learing through paid Course by teacher's panel
+- Free Course through own online learning modules (videos, images for better understanding)
+- Daywise learning 
+- Daily exercise tests to ensure the continuous progression in learning 
+- rewarding with 1 star on mastering every 10/20 learning modules (like HackerRank)
+- Certification of completing the course
+- typing WPM (Words per minute) test report generation
+- Free/Paid Webinars
+- review, ratings, feedback
+- Support through Chat bots
+- testimonials
+- FAQs

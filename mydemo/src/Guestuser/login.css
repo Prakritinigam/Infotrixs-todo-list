@@ -1,0 +1,95 @@
+.fa-google {
+    background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    margin-left: 50px;
+  }
+  .fa-facebook{
+    background: #2d559a;
+    color:white
+  }
+  .line{
+    text-decoration: none;
+  }
+  .about{
+    margin-left: 100px;
+   
+   margin-right: 100px;
+  }
+  .button{
+    background-color: #34a853;
+  }
+  .log1{
+    margin-left: 350px;
+    margin-right: 400px;
+    margin-top: 100px;
+  } 
+  .log2{
+  margin-left: 140px;
+  font-size: 30px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+  }
+  .log3{
+  margin-left: 20px;
+  
+  }
+  .log4{
+  margin-left: 15px;
+  padding-left: 140px;
+  padding-right: 140px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 50px;
+  
+  }
+  .log5{
+  margin-left: 230px;
+  }
+  .log6{
+  width: 350px;
+  }
+  .log{
+  margin-left: 70px;
+  }
+  .loh8{
+  margin-left: 120px;
+  }
+  .rule{
+  width:160px;
+  }
+  .rule1{
+  margin-top: -28px;
+  margin-left:170px;
+  }
+  .rule2{
+  width:160px;
+  margin-top: -27px;
+  margin-left:200px ;
+  }
+.login1{
+  margin-top: -480px;
+  margin-left: 620px;
+}
+.img1
+{
+  height: 700px;
+}
+.log7{
+  margin-left: 60px;
+  margin-top: 15px;
+}
+ 
+  @media (max-width:1288)
+  {
+  .img1{
+    width: 100%;
+    height: auto;
+  }
+  .log1{
+  margin-left: 700px;
+  margin-top: -30px;
+  width: 50%;
+  }
+  }

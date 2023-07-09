@@ -1,0 +1,106 @@
+
+.form1{
+    width:240px;
+}
+.f2{
+    margin-left: 115px;
+    margin-right: 115px;
+    margin-top: 50px;
+    border: 1.5px solid;
+    padding: 30px;
+
+}
+.todos{
+    background: linear-gradient(45deg, #7366FF, #F00B51);
+    /* background-color: #F00B51; */
+    padding: 10px;
+    /* position: fixed; */
+    width:100%;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    /* text-decoration:underline; */
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    position: fixed;
+ 
+}
+.pop{
+    margin-top: 10px;
+}
+.request{
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(30, 140, 127);
+    border: 0px;
+    width:1220px;
+}
+.show{
+    border: 1px solid;
+    border-radius: 8px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 8px;
+   font-size: 20px;
+   background-color:rgb(206, 238, 247);
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+ }
+.all{
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 40px;
+}
+.space{
+background-color: green;
+color: white;
+border:0px;
+border-radius: 20px;
+padding: 3px;
+padding-left: 20px;
+padding-right: 20px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.space1{
+    background-color: rgb(231, 63, 63);
+    color: white;
+    border:0px;
+    border-radius: 20px;
+    padding: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+
+@media (max-width:1309px){
+    .request{
+     width: 100%;
+     height: auto;
+    }}
+ @media(max-width:500px){
+    .form1{
+        width: 80%;
+        height: auto;
+    }
+ }   
+ @media(max-width:1500){
+    .request{
+      width: 20%;
+    }
+ }
+ @media(max-width:1131){
+    .space{
+        /* display: block; */
+        margin-left: -40%;
+
+    }
+    .space1{
+        display: inline;
+    }
+ }
